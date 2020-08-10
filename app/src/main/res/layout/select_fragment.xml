@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="16dp"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/button_education_program"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/education_program" />
+
+    <Button
+        android:id="@+id/button_student"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/student" />
+
+    <Button
+        android:id="@+id/button_lecturer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/lecturer"/>
+
+    <Button
+        android:id="@+id/button_science_project"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/science_project"/>
+
+    <Button
+        android:id="@+id/add_data"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/add_data"/>
+
+</LinearLayout>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="EPsFields">
+        <item>name_program</item>
+        <item>number_bp</item>
+        <item>number_cp</item>
+        <item>id_education_group</item>
+        <item>program_manager</item>
+        <item>contact_person</item>
+        <item>entrance_tests</item>
+    </string-array>
+    <string-array name="StudentFields">
+        <item>name_student</item>
+        <item>id_education_group</item>
+        <item>id_science_project</item>
+        <item>birth_day</item>
+    </string-array>
+    <string-array name="LecturerFields">
+        <item>name_lecturer</item>
+        <item>id_science_project</item>
+        <item>position</item>
+    </string-array>
+    <string-array name="ScienceProjectFields">
+        <item>name_science_project</item>
+        <item>id_science_project</item>
+        <item>description</item>
+    </string-array>
+    <array name="items">
+        <item>@id/id_1</item>
+        <item>@id/id_2</item>
+        <item>@id/id_3</item>
+        <item>@id/id_4</item>
+        <item>@id/id_5</item>
+        <item>@id/id_6</item>
+        <item>@id/id_7</item>
+    </array>
+    <string-array name="EPs">
+        <item>@id/name_program_et</item>
+        <item>@id/id_education_group_et</item>
+        <item>@id/number_bp_et</item>
+        <item>@id/number_cp_et</item>
+        <item>@id/program_manager_et</item>
+        <item>@id/contact_person_et</item>
+        <item>@id/entrance_tests_et</item>
+    </string-array>
+    <string-array name="Student">
+        <item>@id/name_student_et</item>
+        <item>@id/id_education_group_et</item>
+        <item>@id/id_science_project_et</item>
+        <item>@id/birth_day_et</item>
+    </string-array>
+    <string-array name="Lecturer">
+        <item>@id/name_lecturer_et</item>
+        <item>@id/id_science_project_et</item>
+        <item>@id/position_lecturer_et</item>
+    </string-array>
+    <string-array name="ScienceProject">
+        <item>@id/name_project_et</item>
+        <item>@id/id_science_project_et</item>
+        <item>@id/description_et</item>
+    </string-array>
+</resources>
